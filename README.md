@@ -10,4 +10,3 @@ The orders are from different segments such as replacement and other, and they a
 
 ![image](https://github.com/Gowthamp1643/Sales-Dashboard-with-PowerBI-/assets/160050983/73a47075-f96f-49f5-8967-f3d036f2573a)
 
-![image](https://github.com/Gowthamp1643/Sales-Dashboard-with-PowerBI-/assets/160050983/179a16de-d805-4b98-b3a4-a6c23b8e38e5)
